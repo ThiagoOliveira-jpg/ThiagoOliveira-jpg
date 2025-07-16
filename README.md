@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👩🏽‍💻 Thiago Oliveira 
 
-<!--
-**ThiagoOliveira-jpg/ThiagoOliveira-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNICID  
+💻 Focado em me tornar um desenvolvedor back-end  
+📚 Atualmente estudando:
+- Programação Orientada a Objetos com Java  
+- Lógica de programação e estrutura de dados  
+- SQL e fundamentos de banco de dados relacionais  
+- Boas práticas de codificação  
 
-Here are some ideas to get you started:
+🚀 Meu objetivo é atuar na área de desenvolvimento de software, contribuindo com soluções eficientes, código limpo e foco no crescimento contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Entre em contato comigo pelo LinkedIn: [(https://www.linkedin.com/in/thiago-oliveira-0a83881a9/)]  
+
